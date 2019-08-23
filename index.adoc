@@ -1,0 +1,47 @@
+---
+sidebar: sidebar_aws
+permalink: aws/index.html
+summary: Welcome to the documentation portal for NetApp Cloud Volumes Service for AWS.
+---
+
+= NetApp Cloud Volumes Service for AWS documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+:keywords: cloud volumes, amazon web services, AWS, documentation, help
+
+[.lead]
+NetApp Cloud Volumes Service for AWS is a cloud native file service that provides NAS volumes over NFS and SMB with all-flash performance. This service enables any workload, including legacy applications, to run in the AWS cloud.
+
+== Benefits of using Cloud Volumes Service for AWS
+
+Cloud Volumes Service for AWS provides the following benefits:
+
+* Consistent high performance
+* Data protection without performance impacts
+* Instant cloning to support operations, development, and test workflows
+* Support for NFSv3 and SMB 2.1, 3.0, and 3.1.1 NAS protocols
+* Secure access to Linux and Windows Elastic Container Service (ECS) instances, with support including the following:
+** Amazon Linux 2, Red Hat Enterprise Linux 7.5, SLES 12 SP3, and Ubuntu 16.04 LTS
+** Windows Server 2008 R2, Windows Server 2012 R2, and Windows Server 2016
+* Fully managed service, therefore no need to configure or manage storage devices
+* Choice of bundled and pay-as-you-go pricing
+
+== Perform top tasks
+
+* link:task_selecting_region.html[Selecting the region]
+* link:task_creating_cloud_volumes_for_aws.html[Creating a cloud volume]
+* link:task_mounting_cloud_volumes_for_aws.html[Mounting a cloud volume]
+* link:task_creating_on_demand_snapshots.html[Creating an on-demand snapshot for a cloud volume]
+
+== Learn about Cloud Volumes Service for AWS
+
+video::hL4rosv-iZQ[youtube, width=848, height=480]
+
+
+== Find more information
+
+* https://cloud.netapp.com/home[NetApp Cloud Central^]
+* https://www.netapp.com/us/forms/campaign/register-for-netapp-cloud-volumes-for-aws.aspx?hsCtaTracking=4f67614a-8c97-4c15-bd01-afa38bd31696%7C5e536b53-9371-4ce1-8e38-efda436e592e[Get a first look at the new NetApp Cloud Volumes Service for AWS^]
